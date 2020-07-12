@@ -18,6 +18,6 @@ I enjoy working with JavaScript, VueJS, Angular and NodeJS
 
 :coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/aayushgoyal1994">Twitter</a>
 
----🌎
+---
 
 👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
