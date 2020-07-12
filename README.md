@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" width="250" height="250" align="right" alt="github">
+<img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" width="160" height="160" align="right" alt="github">
 
 # Hi, I'm Aayush 👋:man_technologist:💻 
 I enjoy working with JavaScript, VueJS, Angular and NodeJS
