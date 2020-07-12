@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Aayush 👋:man_technologist:💻 
 
-<!--
-**aayushgoyal/aayushgoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working with JavaScript, VueJS, Angular and NodeJS
 
-Here are some ideas to get you started:
+## 2020 goal :telescope:
+- I am currently working on a simple HTML5 based game.
+- Learning NodeJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web 🌎
+- Learning in public on <a href="https://devaayushgoyal.wordpress.com">devaayushgoyal</a> 📹 ✍🏾
+- Sharing updates on <a href="https://in.linkedin.com/in/aayush-goyal-884a81a5">LinkedIn</a> 💼
+
+---
+
+👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
