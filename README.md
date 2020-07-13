@@ -12,11 +12,18 @@ I enjoy working with JavaScript, VueJS, Angular and NodeJS
 ## :telescope: 2020 goal
 - Currently working on a HTML5 based game [Corona Hunter](https://github.com/aayushgoyal/corona-hunter).
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=aayushgoyal&show_icons=true)
+
 ## 🌎 Find me around the web
 - Learning in public on <a href="https://devaayushgoyal.wordpress.com">devaayushgoyal</a> 📹 ✍🏾
 - Sharing updates on <a href="https://in.linkedin.com/in/aayush-goyal-884a81a5">LinkedIn</a> 💼
 
 :coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/aayushgoyal1994">Twitter</a>
+
+
+  <p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=aayushgoyal.visitor-badge">
+  </p>
 
 ---
 
